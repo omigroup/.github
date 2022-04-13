@@ -14,6 +14,6 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 - We must cultivate resiliency by championing diversity, and freedom of choice.
 
 ## Getting involved 
-Check out our [omigroup/omigroup](https://github.com/orgs/omigroup/projects/7/views/2) repo for our active discussions, a detailed readme about our policies and working groups, and meta-tasks related to OMI itself. 
+Check out our [omigroup/omigroup](https://github.com/orgs/omigroup/omigroup) repo for our active discussions, a detailed readme about our policies and working groups, and meta-tasks related to OMI itself. 
 
 We track all of our backlog items on the [OMI holistic board](https://github.com/orgs/omigroup/projects/7/views/2).
