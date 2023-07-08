@@ -3,7 +3,11 @@
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/NJtT9grz5E)
 [![Twitter Follow](https://img.shields.io/twitter/follow/open_metaverse)](https://twitter.com/open_metaverse)
 
-The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+
+The easiest way to try OMI protocols, is to check out our [glTF extensions](https://github.com/omigroup/gltf-extensions#omi-gltf-vendor-extensions). You can see protocols like ours in-action, on [our website](https://omigroup.org) (scroll to the bottom and click `enter world`!) We are always seeking implementers and [collaborators](https://github.com/omigroup/omigroup#active-subgroups). 
+
+Interested? We would love if you [get involved with our community](https://discord.gg/NJtT9grz5E) or [otherwise contributed](https://opencollective.com/omigroup). We hope to see you within our [working groups](https://github.com/omigroup/omigroup#active-subgroups). Bring a friend!
 
 ## OMI Core Values
 
@@ -12,8 +16,3 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 - We are creating a cooperative, sustainable culture of innovation. 
 - We empower the people making the metaverse.
 - We must cultivate resiliency by championing diversity, and freedom of choice.
-
-## Getting involved 
-Check out our [omigroup/omigroup](https://github.com/omigroup/omigroup) repo for our active discussions, a detailed readme about our policies and working groups, and meta-tasks related to OMI itself. 
-
-We track all of our backlog items on the [OMI holistic board](https://github.com/orgs/omigroup/projects/7/views/2).
