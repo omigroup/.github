@@ -7,7 +7,7 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 
 The easiest way to try OMI protocols, is to check out our [glTF extensions](https://github.com/omigroup/gltf-extensions#omi-gltf-vendor-extensions). You can see protocols like ours in-action, on [our website](https://omigroup.org) (scroll to the bottom and click `enter world`!) We are always seeking implementers and [collaborators](https://github.com/omigroup/omigroup#active-subgroups). 
 
-Interested? We would love if you [get involved with our community](https://discord.gg/NJtT9grz5E) or [otherwise contributed](https://opencollective.com/omigroup). We hope to see you within our [working groups](https://github.com/omigroup/omigroup#active-subgroups). Bring a friend!
+Interested? We would love if you [get involved with our community](https://discord.gg/Rypf8Kc6CZ) or [otherwise contributed](https://opencollective.com/omigroup). We hope to see you within our [working groups](https://github.com/omigroup/omigroup#active-subgroups). Bring a friend!
 
 ## OMI Core Values
 
